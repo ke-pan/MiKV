@@ -1,0 +1,7 @@
+[package]
+name = "MiKV"
+version = "0.1.0"
+authors = ["Pan Ke <ke.pan@grabtaxi.com>"]
+edition = "2018"
+
+[dependencies]
